@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on **3D Computer Vision and Continual Learning**
 
-- 🌱 I’m currently learning **Continual Learning**
-
 - 👨‍💻 All of my projects are available at [https://tejasanvekar.github.io](https://tejasanvekar.github.io)
 
 - 📫 How to reach me **anvekartejas@gmail.com**
