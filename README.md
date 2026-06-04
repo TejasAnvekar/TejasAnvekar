@@ -29,7 +29,7 @@ Previously, I was a **Research Scientist Intern at Adobe Research**, where I wor
 I have published **10+ peer-reviewed papers** at venues including  
 **ACL, AACL, WACV, CVPR Workshops, ICCV Workshops, SIGGRAPH Asia, AAAI**.
 
-👉 See full list on my **[Google Scholar](https://scholar.google.com)** or **[website](https://tejasanvekar.github.io)**.
+👉 See full list on my **[Google Scholar](https://scholar.google.com/citations?user=nmHPl6QAAAAJ&hl=en)** or **[website](https://tejasanvekar.github.io)**.
 
 ---
 
